@@ -18,4 +18,11 @@
         <maven.compiler.target>21</maven.compiler.target>
         <exec.mainClass>com.mycompany.actionsdemo.ActionsDemo</exec.mainClass>
     </properties>
+    <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub Packages</name>
+      <url>https://maven.pkg.github.com/Arc4d3-G/ActionsDemo</url>
+    </repository>
+  </distributionManagement>
 </project>
