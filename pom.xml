@@ -22,7 +22,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/Arc4d3-G/ActionsDemo</url>
+      <url>https://maven.pkg.github.com/mycompany/ActionsDemo</url>
     </repository>
   </distributionManagement>
 </project>
